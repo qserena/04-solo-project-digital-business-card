@@ -1,6 +1,6 @@
 import profilePhoto from './assets/Tom.png'
-import emailIcon from './assets/Mail.png'
-import linkedinIcon from './assets/linkedin.png'
+import emailIcon from './assets/mail.svg'
+import linkedinIcon from './assets/linkedin.svg'
 
 export default function Info() {
 	return (

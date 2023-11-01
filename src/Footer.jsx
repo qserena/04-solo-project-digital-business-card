@@ -1,15 +1,23 @@
-import twitterIcon from './assets/Twitter Icon.png'
-import facebookIcon from './assets/Facebook Icon.png'
-import instagramIcon from './assets/Instagram Icon.png'
-import githubIcon from './assets/GitHub Icon.png'
+import twitterIcon from './assets/twitter.svg'
+import facebookIcon from './assets/facebook.svg'
+import instagramIcon from './assets/instagram.svg'
+import githubIcon from './assets/gitHub.svg'
 
 export default function Footer() {
 	return (
 		<div className="footer-icons">
-			<img src={twitterIcon} alt="Twitter icon" />
-			<img src={facebookIcon} alt="Facebook icon" />
-			<img src={instagramIcon} alt="Instagram icon" />
-			<img src={githubIcon} alt="GitHub icon" />
+			<a href="https://twitter.com/tomserenander">
+				<img src={twitterIcon} alt="Twitter icon" />
+			</a>
+			<a href="https://www.facebook.com/tom.serenander">
+				<img src={facebookIcon} alt="Facebook icon" />
+			</a>
+			<a href="https://www.instagram.com/tomserenander/">
+				<img src={instagramIcon} alt="Instagram icon" />
+			</a>
+			<a href="https://github.com/qserena">
+				<img src={githubIcon} alt="GitHub icon" />
+			</a>
 		</div>
 	)
 }
