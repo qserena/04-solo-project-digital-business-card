@@ -17,18 +17,24 @@ export default function Info() {
 					serenander.se
 				</a>
 				<div className="buttons">
-					<button className="btn email-btn">
+					<a
+						href="mailto:tom@serenander.se"
+						className="btn email-btn"
+					>
 						<div className="button-content">
 							<img src={emailIcon} alt="Email icon" />
 							Email
 						</div>
-					</button>
-					<button className="btn linkedin-btn">
+					</a>
+					<a
+						href="https://www.linkedin.com/in/tom-serenander-4a09bb1a/"
+						className="btn linkedin-btn"
+					>
 						<div className="button-content">
 							<img src={linkedinIcon} alt="Email icon" />
 							LinkedIn
 						</div>
-					</button>
+					</a>
 				</div>
 			</div>
 		</>
