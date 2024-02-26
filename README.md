@@ -10,9 +10,10 @@ This Color Scheme Generator calls the Open Source [Color API](https://www.thecol
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Live link
 The app is deployed here:
-[https://toms-color-generator.netlify.app](https://toms-color-generator.netlify.app)
+[https://toms-card.netlify.app](https://toms-card.netlify.app)
 
 Please feel free to visit and try the Color Scheme Generator!
