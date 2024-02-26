@@ -27,7 +27,7 @@ export default function Info() {
 						</div>
 					</a>
 					<a
-						href="https://www.linkedin.com/in/tom-serenander-4a09bb1a/"
+						href="https://www.linkedin.com/in/tom-serenander/"
 						className="btn linkedin-btn"
 					>
 						<div className="button-content">
