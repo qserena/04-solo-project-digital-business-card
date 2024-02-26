@@ -2,6 +2,8 @@
 
 ## Description
 A Digital Business Card built of React components representing the different parts of the card.
+
+Featuring social media icons in svg format in the Footer at the bottom of the page.
 <br/>
 <br/>
 <img src="digital-business-card.png" alt="Screenshot." width="400px"/>
